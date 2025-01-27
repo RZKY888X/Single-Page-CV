@@ -1,2 +1,2 @@
-# Single-Page-CV
-https://github.com/RZKY888X/Single-Page-CV
+## Project URL
+[Single-Page CV](https://github.com/RZKY888X/Single-Page-CV)
